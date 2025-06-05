@@ -14,7 +14,7 @@ So I created a simulations of software and how I would wire a 16 neo pixels that
   <source src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d15d8fdf623ed5de376db096c4af2843837e347e_04.06.2025_20.14.30_rec.mp4" type="video/mp4">
 </video>
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d15d8fdf623ed5de376db096c4af2843837e347e_04.06.2025_20.14.30_rec.mp4)
-https://github.com/GaoYeGithub/RGB-Saber/commit/19cd909c2f22daee98f162553505b2ad7c38af03
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/d15d8fdf623ed5de376db096c4af2843837e347e_04.06.2025_20.14.30_rec.mp4
 
 Journal Update for highway call
 **Total time spent: 2.5h**
