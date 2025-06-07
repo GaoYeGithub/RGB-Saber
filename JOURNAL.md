@@ -18,3 +18,10 @@ https://hc-cdn.hel1.your-objectstorage.com/s/v3/d15d8fdf623ed5de376db096c4af2843
 
 Journal Update for highway call
 **Total time spent: 2.5h**
+
+# June 5th: Cadded the sword
+
+Created what I wanted the sword to be like. The walls currently are only 1 mm thick and 1.25 mm apart which hopfully is thin enough for the light to go thur but doesn't break, I need some testing to be sure tho.
+
+![image](https://github.com/user-attachments/assets/0710ef8c-9ed3-4501-a421-e8ea59efd3dc)
+![image](https://github.com/user-attachments/assets/16506541-2ae5-4e78-8afc-d9653da75c11)
