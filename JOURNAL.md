@@ -28,3 +28,13 @@ Created what I wanted the sword to be like. The walls currently are only 1 mm th
 ![image](https://github.com/user-attachments/assets/16506541-2ae5-4e78-8afc-d9653da75c11)
 
 **Total time spent: 1.5h**
+
+# June 5th: Created the pcb 
+
+Create a schematic and PCB of thing with Adafruit powerboost 500C, XIao seeed rp 2040, and mpu6050 
+
+![image](https://github.com/user-attachments/assets/df379e36-34fb-46e1-84bb-c185920195a8)
+![image](https://github.com/user-attachments/assets/a234ba00-4213-4664-8802-bef6b64c76b6)
+
+**Total time spent: 4h**
+
