@@ -28,7 +28,6 @@ I built this project to beacuse it combines my interests in 3D printing, electro
 
 ## Bill of Materials
 
-<<<<<<< HEAD
 | Component                    | Quantity | Price    |
 |------------------------------|:--------:|:--------:|
 | PLA or PETG Filament         |     1    | 28       |
