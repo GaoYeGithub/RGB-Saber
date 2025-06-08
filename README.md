@@ -20,14 +20,16 @@ I built this project to beacuse it combines my interests in 3D printing, electro
 
 ### Schematic
 ![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ff2f817cebbf428905bab0972a81358114bc1d41_image.png)
+![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/510a52b7503bd1756012874e082a3a52cb886434_image.png)
 
 ### PCB Layout
-![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/016d8653ef0e4f623ae274e424601ea7267508ac_image.png)
+![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/de6bb687d293a6ab25cb9b345f19867af3f4dfba_image.png)
 
 ---
 
 ## Bill of Materials
 
+<<<<<<< HEAD
 | Component                    | Quantity | Price    |
 |------------------------------|:--------:|:--------:|
 | PLA or PETG Filament         |     1    | 28       |
