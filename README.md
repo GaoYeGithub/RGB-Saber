@@ -28,14 +28,16 @@ I built this project to beacuse it combines my interests in 3D printing, electro
 
 ## Bill of Materials
 
-| Component                    | Quantity |
-|------------------------------|:--------:|
-| PLA or PETG Filament         |     1    |
-| Custom PCB                   |     1    |
-| Adafruit PowerBoost 500C     |     1    |
-| MPU-6050                     |     1    |
-| Xiao Seeed RP2040            |     1    |
-| Male Header Pins             |     3    |
-| 10 kΩ Resistor               |     2    |
-| 0.1 µF Decoupling Capacitor  |     1    |
-| LiPo Battery                 |     1    |
+| Component                    | Quantity | Price    |
+|------------------------------|:--------:|:--------:|
+| PLA or PETG Filament         |     1    | 28       |
+| Custom PCB                   |     1    | 3.5      |
+| Adafruit PowerBoost 500C     |     1    | 26       |
+| MPU-6050                     |     1    | 11.8     |
+| Xiao Seeed RP2040            |     1    | 6.81     |
+| Male Header Pins             |     3    | 0.2      |
+| 10 kΩ Resistor               |     2    | 1        |
+| 0.1 µF Decoupling Capacitor  |     1    | 0.5      |
+| LiPo Battery                 |     1    | 15.99    |
+| 20x1 neopixel strip	       |     1    | 16.99    |
+| 3 volt panel mount buttons   |     1    | 1.29     |
