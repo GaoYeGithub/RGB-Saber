@@ -39,3 +39,5 @@ I built this project to beacuse it combines my interests in 3D printing, electro
 | 10 kΩ Resistor               |     2    |
 | 0.1 µF Decoupling Capacitor  |     1    |
 | LiPo Battery                 |     1    |
+| 20x1 neopixel strip          |     1    |
+
