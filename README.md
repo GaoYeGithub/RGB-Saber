@@ -19,7 +19,6 @@ I built this project to beacuse it combines my interests in 3D printing, electro
 ![Assembly](https://hc-cdn.hel1.your-objectstorage.com/s/v3/33c3c40f43e308743065bab0ddf5dd657cb26b87_image.png)
 
 ### Schematic
-![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ff2f817cebbf428905bab0972a81358114bc1d41_image.png)
 ![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/510a52b7503bd1756012874e082a3a52cb886434_image.png)
 
 ### PCB Layout
